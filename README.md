@@ -90,12 +90,6 @@ Valor total da compra: R$ 8.50
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por:
